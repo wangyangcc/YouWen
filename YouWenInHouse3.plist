@@ -7,6 +7,14 @@
 		<dict>
 			<key>assets</key>
 			<array>
+                <dict>
+                    <key>url</key>
+                    <string>http://static.youwenapp.com/ui/icon/57.png</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>kind</key>
+                    <string>display-image</string>
+                </dict>
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
